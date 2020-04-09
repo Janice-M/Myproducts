@@ -6,8 +6,7 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
-console.log(34);
-console.log(3*8);
+console.log(34
 
 
 // unregister() to register() below. Note this comes with some pitfalls.
