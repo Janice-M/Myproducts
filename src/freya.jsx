@@ -1,4 +1,4 @@
 console.log(1);
 const hello = 'freya is a good girl';
 
-console.log9(hello);
+console.log9(hello)
