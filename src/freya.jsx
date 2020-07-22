@@ -1,4 +1,4 @@
 
-const hello = 'freya is a good baby girl';
+const hello = 'freya is a googirl';
 
 console.log(hell0);
